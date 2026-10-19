@@ -1,26 +1,115 @@
-<h1 align="center">Hi 👋, I'm Ezan</h1>
-<h3 align="center">Passionated Tech Enthusiast.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xllvel&label=Profile%20views&color=0e75b6&style=flat" alt="0xllvel" /> </p>
+# Hi, I'm Ezan 👋
 
-- 🔭 I’m currently working on [reapower](https://github.com/0xLLVEL/reapower/)
+**Tech enthusiast · Reverse engineering · Full-stack & Android**
 
-- 🌱 I’m currently learning **RE, FE & BE, CICD, Android, etc**
+Building tools, learning in public, and shipping side projects.
 
-- 👯 I’m looking to collaborate on **StreamQ**
+[![Profile views](https://komarev.com/ghpvc/?username=0xllvel&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/0xLLVEL)
+[![Followers](https://img.shields.io/github/followers/0xLLVEL?label=Followers&style=flat&logo=github)](https://github.com/0xLLVEL?tab=followers)
+[![Repos](https://img.shields.io/badge/Repositories-29-181717?style=flat&logo=github)](https://github.com/0xLLVEL?tab=repositories)
 
-- 💬 Ask me about **Anything**
+</div>
 
-- 📫 How to reach me **fakhrezan1@gmail.com**
+---
 
-<p align="left">
+## 👨‍💻 About Me
+
+I'm a developer who enjoys understanding how software works from the inside out, and then building useful things on top of that knowledge. My interests span **reverse engineering**, **frontend & backend development**, **CI/CD**, and **Android**.
+
+- 🔭 Currently working on [**reapower**](https://github.com/0xLLVEL/reapower)
+- 🌱 Currently learning **Reverse Engineering, Frontend & Backend, CI/CD, Android**
+- 👯 Open to collaborating on **StreamQ**
+- 💬 Ask me about **anything** tech-related
+- 📫 Reach me at **[fakhrezan1@gmail.com](mailto:fakhrezan1@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+**Frameworks & Libraries**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xllvel&show_icons=true&locale=en&layout=compact" alt="0xllvel" /></p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xllvel&show_icons=true&locale=en" alt="0xllvel" /></p>
+**Platforms, Data & Tooling**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xllvel&" alt="0xllvel" /></p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [**openapk**](https://github.com/0xLLVEL/openapk) | A multipurpose, all-in-one Android reverse engineering MCP. | `JavaScript` |
+| [**devx**](https://github.com/0xLLVEL/devx) | Developer tooling project. | `Rust` |
+| [**streamku-client**](https://github.com/0xLLVEL/streamku-client) | Client application for the StreamKu streaming platform. | `TypeScript` |
+| [**streamku-backend**](https://github.com/0xLLVEL/streamku-backend) | Backend service powering StreamKu. | `PHP` |
+| [**edukey**](https://github.com/0xLLVEL/edukey) | Education-focused project. | `Python` |
+| [**freeday**](https://github.com/0xLLVEL/freeday) | Side project. | `JavaScript` |
+
+> See all 29 repositories on my [profile](https://github.com/0xLLVEL?tab=repositories).
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=0xllvel&show_icons=true&locale=en" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xllvel&show_icons=true&locale=en&layout=compact" />
+
+<img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0xllvel" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<p>
+  <a href="https://github.com/0xLLVEL?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="64"/></a>
+  <a href="https://github.com/0xLLVEL?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" width="64"/></a>
+  <a href="https://github.com/0xLLVEL?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" width="64"/></a>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to talk about reverse engineering, open source, or side projects, and I'm open to collaboration.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-fakhrezan1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fakhrezan1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0xLLVEL-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xLLVEL)
+
+*Thanks for stopping by! ⭐ If you find something useful, feel free to star a repo.*
+
+</div>
