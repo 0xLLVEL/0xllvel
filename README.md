@@ -23,6 +23,7 @@ I'm a developer who enjoys understanding how software works from the inside out,
 - 👯 Open to collaborating on **StreamQ**
 - 💬 Ask me about **anything** tech-related
 - 📫 Reach me at **[fakhrezan1@gmail.com](mailto:fakhrezan1@gmail.com)**
+- 🎮 Discord: **ezanism**
 
 ---
 
@@ -67,6 +68,7 @@ I'm a developer who enjoys understanding how software works from the inside out,
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
+| [**reapower**](https://github.com/0xLLVEL/reapower) | Documentation and notes from my reverse engineering work on several apps. | `Reverse Engineering` |
 | [**openapk**](https://github.com/0xLLVEL/openapk) | A multipurpose, all-in-one Android reverse engineering MCP. | `JavaScript` |
 | [**devx**](https://github.com/0xLLVEL/devx) | Developer tooling project. | `Rust` |
 | [**streamku-client**](https://github.com/0xLLVEL/streamku-client) | Client application for the StreamKu streaming platform. | `TypeScript` |
@@ -108,6 +110,7 @@ I'm always happy to talk about reverse engineering, open source, or side project
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-fakhrezan1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fakhrezan1@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-ezanism-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ezanism)
 [![GitHub](https://img.shields.io/badge/GitHub-0xLLVEL-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xLLVEL)
 
 *Thanks for stopping by! ⭐ If you find something useful, feel free to star a repo.*
